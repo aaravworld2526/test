@@ -1,0 +1,3 @@
+module "rgs" {
+  source = "../rgs"
+}
